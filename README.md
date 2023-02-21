@@ -11,8 +11,6 @@ I got the best results when doing transfer learning on a [pretrained resnet18 to
 Here are the predicted keypoints using the resnet model on the provided test images.
 
 <img src="https://github.com/udacity/P1_Facial_Keypoints/blob/master/images/key_pts_example.png?raw=true" width="512">
-<img src="images/beatles_resnet.png" width="512">
-<img src="images/mona_lisa_resnet.png" width="255">
 
 ### Webcam app
 
